@@ -1,0 +1,67 @@
+body
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+  background-color: beige;
+  background-image: url(/background.jpg);
+}
+
+
+
+img {
+    margin: 10px;
+    border: 7px solid black;
+    width: 500px;   
+    height: 350px; 
+}
+
+li{
+    margin: 3%;
+}
+
+.main{
+    background-color: beige;
+    width: 50%;
+    margin: 5%;
+    border: 1px solid black;
+}
+
+.intro{
+    margin: 3%;
+}
+
+.inglist {
+    border: 1px solid black;
+    border-style: dashed;
+    margin: 2%;
+}
+
+.ccontainer
+{
+margin: 5px;
+width: 60%;
+background-color: beige;
+border: 2px solid black;
+}
+
+.lcontainer{
+margin: 5px;
+width: 60%;
+background-color: beige;
+border: 2px solid black;
+}
+
+.pcontainer
+{
+margin: 5px;
+width: 60%;
+background-color: beige;
+border: 2px solid black;
+}
+
+#pepperimg{
+    width: 300px;
+}
