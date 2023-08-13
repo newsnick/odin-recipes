@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+
 body
 {
     margin:0;
@@ -8,7 +10,6 @@ body
   background-color: beige;
   background-image: url(background.jpg);
 }
-
 
 
 img {
@@ -30,12 +31,22 @@ li{
 }
 
 .intro{
-    margin: 3%;
+    margin: 2%;
+    text-align: left;
 }
 
+
+
 .inglist {
-    border: 1px solid black;
-    border-style: dashed;
+    border: 7px solid burlywood;
+    border-radius: 5%;
+    margin: 2%;
+    background-color: #31343A;
+    color: white;
+    font-family: 'Edu TAS Beginner';
+}
+
+.subtitle{
     margin: 2%;
 }
 
